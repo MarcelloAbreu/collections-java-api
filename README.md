@@ -1,18 +1,23 @@
-## Getting Started
+# Aprendendo Collections em Java DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá! Este é o meu repositório onde estou aprendendo sobre Collections em Java. Aqui, você encontrará uma série de exercícios que realizei para aprimorar minhas habilidades e compreensão sobre o tema.
 
-## Folder Structure
+## Por que Collections?
 
-The workspace contains two folders by default, where:
+As Collections são uma das estruturas de dados fundamentais na programação Java. Elas são usadas para armazenar, recuperar, manipular e comunicar dados entre as classes. Aprender sobre Collections me permite escrever código mais eficiente e eficaz.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## O que eu aprendi
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Através desses exercícios, eu pude aprender sobre diferentes tipos de Collections em Java, como:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- List: Uma lista ordenada de elementos que permite duplicatas.
+- Set: Uma coleção que não permite duplicatas.
+- Map: Uma coleção de pares chave-valor.
 
-## Dependency Management
+Além disso, também aprendi sobre as várias operações que podemos realizar em Collections, como adicionar elementos, remover elementos, iterar sobre elementos e muito mais.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Exercícios
+
+Os exercícios neste repositório estão divididos em diferentes seções, cada uma focando em um tipo específico de Collection. Em cada seção, você encontrará problemas que resolvi, juntamente com explicações detalhadas do código.
+
+Espero que este repositório seja útil para qualquer pessoa que esteja aprendendo sobre Collections em Java. Sinta-se à vontade para explorar o código e deixar qualquer feedback ou sugestões que você possa ter.
