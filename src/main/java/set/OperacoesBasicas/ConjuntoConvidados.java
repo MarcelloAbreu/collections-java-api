@@ -1,7 +1,6 @@
 package main.java.set.OperacoesBasicas;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 public class ConjuntoConvidados {
 
